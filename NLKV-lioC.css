@@ -7,12 +7,11 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 /* FONT (From Google Fonts) */
 
-@import url('FONT URL');
 
 /* BACKGROUND */
 
 body {
-	linear-gradient(to right, rgba(106, 62, 138, 0.53), rgba(37, 59, 87, 0.82)), url('https://i.imgur.com/V18bHsD.jpeg');
+	background-image: url('https://i.imgur.com/V18bHsD.jpeg');
 	background-size: cover;
 	color: #2e2a2b
 }
